@@ -1,0 +1,58 @@
+[
+    {
+        "thoughtText": "great service",
+        "createdAt": "",
+        "username": "Tim",
+        "reactions": [
+            {
+                "reactionId": "",
+                "reactionBody": "",
+                "username": "",
+                "createdAt": "",
+                "_id": ""
+            }
+        ]
+    },
+    {
+        "thoughtText": "cool vibe",
+        "createdAt": "",
+        "username": "Steve",
+        "reactions": []
+    },
+    {
+        "thoughtText": "i liked the waffles",
+        "createdAt": "",
+        "username": "Alan",
+        "reactions": []
+    },
+    {
+        "thoughtText": "overcooked my steak",
+        "createdAt": "",
+        "username": "Jim",
+        "reactions": []
+    },
+    {
+        "thoughtText": "water was too cold",
+        "createdAt": "",
+        "username": "Sue",
+        "reactions": []
+    },
+    {
+        "thoughtText": "amazing chicken",
+        "createdAt": "",
+        "username": "Bill",
+        "reactions": []
+    },
+    {
+        "thoughtText": "five stars",
+        "createdAt": "",
+        "username": "Brady",
+        "reactions": []
+    },
+    {
+        "thoughtText": "best resturant in town",
+        "createdAt": "",
+        "username": "Sally",
+        "reactions": []
+    }
+]

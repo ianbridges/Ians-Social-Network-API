@@ -15,7 +15,7 @@ router
   .get(getAllUser)
   .post(createUser);
 
-routerr
+router
   .route('/:id')
   .get(getUserById)
   .put(updateUser)

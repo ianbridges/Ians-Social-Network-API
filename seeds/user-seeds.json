@@ -1,0 +1,50 @@
+[
+    {
+        "userName": "Tim",
+        "email": "tim@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Steve",
+        "email": "steve@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Alan",
+        "email": "alan@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Jim",
+        "email": "jim@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Sue",
+        "email": "sue@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Bill",
+        "email": "bill@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Brady",
+        "email": "brady@email.com",
+        "thoughts": [],
+        "friends": []
+    },
+    {
+        "userName": "Sally",
+        "email": "sally@email.com",
+        "thoughts": [],
+        "friends": []
+    }
+]
